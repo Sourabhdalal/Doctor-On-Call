@@ -29,6 +29,7 @@ public class Doctor {
       private String doctorPhoneNumber;
       private String doctorEducation;
       private String doctorePhoto;
+      private String doctorCategory;
       
       
   

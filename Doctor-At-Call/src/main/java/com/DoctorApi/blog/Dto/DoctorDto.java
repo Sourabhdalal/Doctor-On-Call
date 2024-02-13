@@ -16,4 +16,5 @@ public class DoctorDto
     private String doctorPhoneNumber;
     private String doctorEducation;
     private String doctorePhoto;
+    private String doctorCategory;
 }
